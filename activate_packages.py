@@ -10,10 +10,6 @@ import requests
 from ASF import IPC
 from tqdm import tqdm
 
-ASF_SEPARATOR = ','
-INPUT_SEPARATOR = ','
-OUTPUT_SEPARATOR = ','
-
 logging.basicConfig(
     filename="logging.txt",
     filemode="w",
