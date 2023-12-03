@@ -1,4 +1,4 @@
-> **Note**
+> [!Note]
 > Code is written from scratch with MIT license at [`add-free-licenses`][repository-with-mit-license], which only relies on [tracked][luois45-gpl-repository] data.
 
 # Free Packages
